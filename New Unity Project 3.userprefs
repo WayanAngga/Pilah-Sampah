@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BatasAkhirSampah.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GerakPindah.cs" Line="23" Column="30" />
+      <File FileName="Assets\Scripts\MuunculkanSampah.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BatasAkhirSampah.cs" Line="22" Column="3" />
+      <File FileName="Assets\Scripts\Data.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DeteksiSampah.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Keluar.cs" Line="18" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
